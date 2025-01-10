@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	"go-library/array"
-	"go-library/calculator"
+
+	"github.com/Sprof22/go-library/array"
+	"github.com/Sprof22/go-library/calculator"
 )
 
 func main() {
